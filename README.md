@@ -38,5 +38,5 @@
 
 <div align="center">
   <a href="t.me/Imrvrs"><img src="https://img.icons8.com/ff6b6b/telegram" width="50" height="50"></a>
-  <a href="t.me/Imrvrs"><img src="https://img.icons8.com/ff6b6b/discord" width="50" height="50"></a>
+  <a href="discordapp.com/users/814127048162410517"><img src="https://img.icons8.com/ff6b6b/discord" width="50" height="50"></a>
 </div>
