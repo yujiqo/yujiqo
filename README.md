@@ -34,7 +34,7 @@
 
 <hr>
 
-<h2 align="center">Contact with me</h2>
+<h3 align="center">Contact with me</h3>
 
 <div align="center">
   <a href="https://t.me/Imrvrs"><img src="https://img.icons8.com/ff6b6b/telegram" width="50" height="50"></a>
