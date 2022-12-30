@@ -6,15 +6,15 @@
 <h3 align="center">Tools & Stats</h3>
 
 <div align="center">
-  <img src="https://img.icons8.com/ios-glyphs/6b6bff/console" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/ios-filled/ff6b6b/c-plus-plus-logo" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/material-sharp/6b6bff/crab" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/ios-filled/ff6b6b/git" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/ios-glyphs/6b6bff/python" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/ios-filled/ff6b6b/javascript" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/ios-glyphs/6b6bff/html-5" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/ios-filled/ff6b6b/typescript" width="30" height="30">&ensp;
-  <img src="https://img.icons8.com/ios-glyphs/6b6bff/css3" width="30" height="30">&ensp;
+  <img src="https://img.icons8.com/ios-glyphs/6b6bff/console" width="30" height="30">
+  <img src="https://img.icons8.com/ios-filled/ff6b6b/c-plus-plus-logo" width="30" height="30">
+  <img src="https://img.icons8.com/material-sharp/6b6bff/crab" width="30" height="30">
+  <img src="https://img.icons8.com/ios-filled/ff6b6b/git" width="30" height="30">
+  <img src="https://img.icons8.com/ios-glyphs/6b6bff/python" width="30" height="30">
+  <img src="https://img.icons8.com/ios-filled/ff6b6b/javascript" width="30" height="30">
+  <img src="https://img.icons8.com/ios-glyphs/6b6bff/html-5" width="30" height="30">
+  <img src="https://img.icons8.com/ios-filled/ff6b6b/typescript" width="30" height="30">
+  <img src="https://img.icons8.com/ios-glyphs/6b6bff/css3" width="30" height="30">
   <img src="https://img.icons8.com/ios-glyphs/ff6b6b/debian" width="30" height="30">
 </div>
 
@@ -34,4 +34,9 @@
 
 <hr>
 
-<h3 align="center">⬇️ Pinned reps below ⬇️</h3>
+<h2 align="center">Contact with me</h2>
+
+<div align="center">
+  <a href="t.me/Imrvrs"><img src="https://img.icons8.com/ff6b6b/telegram" width="50" height="50"></a>
+  <a href="t.me/Imrvrs"><img src="https://img.icons8.com/ff6b6b/discord" width="50" height="50"></a>
+</div>
