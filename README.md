@@ -25,13 +25,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imrvrs&show_icons=true&theme=dracula&bg_color=15,00000000,ff6b6b11&hide_border=true&border_radius=30)
 
 </div>
-
+<!--
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imrvrs&layout=compact&card_width=445&theme=dracula&bg_color=15,ff6b6b11,00000000&hide_border=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
+-->
 <hr>
 
 <h3 align="center">Contact with me</h3>
