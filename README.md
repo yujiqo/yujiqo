@@ -22,7 +22,7 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imrvrs&show_icons=true&theme=dracula&bg_color=15,00000000,ff6b6b11&hide_border=true&border_radius=30)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujiqo&show_icons=true&theme=dracula&bg_color=15,00000000,ff6b6b11&hide_border=true&border_radius=30)
 
 </div>
 <!--
