@@ -37,6 +37,6 @@
 <h3 align="center">Contact with me</h3>
 
 <div align="center">
-  <a href="https://t.me/Imrvrs"><img src="https://img.icons8.com/ff6b6b/telegram" width="50" height="50"></a>
-  <a href="https://discordapp.com/users/814127048162410517"><img src="https://img.icons8.com/ff6b6b/discord" width="50" height="50"></a>
+  <a href="https://t.me/yujiqoew"><img src="https://img.icons8.com/ff6b6b/telegram" width="30" height="30"></a>
+  <a href="https://discordapp.com/users/814127048162410517"><img src="https://img.icons8.com/ff6b6b/discord" width="30" height="30"></a>
 </div>
