@@ -11,6 +11,7 @@ GitHub is a place where I can store the results of my engineering and tinkering.
 
 1 more interesting fact about me – I HATE WEB DEV!
 
+## Here a bunch of projects I have worked on:
 | Project                  | Concise description                                                                    |
 |--------------------------|----------------------------------------------------------------------------------------|
 | [nixos](https://github.com/yujiqo/nixos)                    | THE ultimate linux configuration that i use on all of my non mac machines              |
