@@ -14,9 +14,9 @@ GitHub is a place where I can store the results of my engineering and tinkering.
 ## Here a bunch of projects I have worked on:
 | Project                  | Concise description                                                                    |
 |--------------------------|----------------------------------------------------------------------------------------|
-| [nixos](https://github.com/yujiqo/nixos)                    | THE ultimate linux configuration that i use on all of my non mac machines              |
+| [nixos](https://github.com/yujiqo/nixos)                    | THE ultimate linux configuration that i use on all of my unix machines              |
 | [yurice](https://github.com/yujiqo/yurice)                   | Tiling keyboard oriented workflow based on Niri and hand-written shell with QML        |
-| [kompu](https://github.com/yujiqo/kompu)                    | Goal tracker for your steam backlog (will be added soon)                                                    |
+| [kompu](https://github.com/yujiqo/kompu)                    | Goal tracker for your steam backlog                                                  |
 | [1D Buckley-Leverett PINN](https://github.com/yujiqo/Bucley-Leverett_PINN_Experiments) | Fully functioning experiments pipeline written to reproduce core PINN for 1D BL papers |
 
 At this point the amount of them should only grow btw.
